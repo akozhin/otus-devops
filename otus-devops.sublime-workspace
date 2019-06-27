@@ -1,0 +1,830 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"find",
+				"find_or_create_by"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"cart",
+				"cart_items"
+			],
+			[
+				"ca",
+				"cart_items"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"fet",
+				"fetch_cart_items"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"comm",
+				"comment_params"
+			],
+			[
+				"cate",
+				"category_params"
+			],
+			[
+				"C",
+				"Category"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 117,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syco",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"setssl",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"synsli",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"zsh",
+			"pwd",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/akozhin/work/devops/otus-devops",
+		"/Users/akozhin/work/devops/akozhin_infra"
+	],
+	"file_history":
+	[
+		"/Users/akozhin/work/devops/otus-devops/.travis.yml",
+		"/Users/akozhin/work/devops/akozhin_infra/.travis.yml",
+		"/Users/akozhin/work/devops/otus-devops/README.md",
+		"/Users/akozhin/work/devops/otus-devops/travis.yml",
+		"/Users/akozhin/work/devops/otus-devops/.git/MERGE_MSG",
+		"/Users/akozhin/Downloads/series.json",
+		"/Users/akozhin/work/sandbox/instapy/InstaPy/logs/followRestriction.json",
+		"/Users/akozhin/work/sandbox/instapy/InstaPy/logs/run.txt",
+		"/Users/akozhin/work/sandbox/instapy/InstaPy/logs/followed.txt",
+		"/Users/akozhin/Downloads/death (1).xsd",
+		"/Users/akozhin/Documents/Домашний интерент",
+		"/Users/akozhin/work/sandbox/liferay7/liferay7-in-action/liferay7-intro.md",
+		"/Users/akozhin/work/sandbox/instapy/instagram-profilecrawl/profiles/juicykids.json",
+		"/Users/akozhin/work/sandbox/instapy/InstaPy/instapy/instapy.py",
+		"/Users/akozhin/work/sandbox/instapy/instagram-profilecrawl/util/extractor.py",
+		"/Users/akozhin/work/sandbox/instapy/InstaPy/test.py",
+		"/private/tmp/lr7/gradle.properties",
+		"/Users/akozhin/work/sandbox/instapy/instagram-profilecrawl/profiles/mork0vka_.json",
+		"/Users/akozhin/work/sandbox/liferay7/filesystem-access/README.md",
+		"/Users/akozhin/work/sandbox/liferay7/liferay7-in-action/osgi.md",
+		"/Users/akozhin/Downloads/reveal.js-3.4.1/index.html",
+		"/Users/akozhin/work/iac/esbo/esbo-portal/gradle.properties",
+		"/etc/hosts",
+		"/Users/akozhin/Library/Preferences/IntelliJIdea2016.2/options/options.xml",
+		"/Users/akozhin/work/sandbox/docker/java/Dockerfile",
+		"/Users/akozhin/Downloads/Письмо Ульве",
+		"/Volumes/Volume_1/fun_plug",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/git/wiki/plantner_brief.md",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/doc/Портал - Документы/Блокнот/Инструкция.md",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/doc/plantner_errors.md",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/doc/plantner.md",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/doc/roadmap.md",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/doc/about.md",
+		"/Users/akozhin/work/home/apps/dropbox/work/iac/LR upgrade/access.txt",
+		"/Users/akozhin/.ssh/known_hosts",
+		"/Users/akozhin/Downloads/Gos Agile Meeting #2.txt",
+		"/Users/akozhin/Downloads/Альянс.xml",
+		"/Users/akozhin/Downloads/1.xml",
+		"/Users/akozhin/Downloads/МРП.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/git/wiki/PlantOptions.md",
+		"/Users/akozhin/.ssh/plantner.com,146.185.140.73 ssh-rsa AAAAB3NzaC1yc2",
+		"/Users/akozhin/work/index.html",
+		"/Users/akozhin/Downloads/МРП.xml.log",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/римр.xml",
+		"/Users/akozhin/Downloads/римр.xml",
+		"/Users/akozhin/Downloads/Копия римр.xml",
+		"/Users/akozhin/work/projects/plantcargo/transportation.html",
+		"/Users/akozhin/work/projects/plantcargo/consulting.html",
+		"/Users/akozhin/work/projects/plantcargo/logistics.html",
+		"/Users/akozhin/work/projects/plantcargo/products.html",
+		"/Users/akozhin/work/projects/plantcargo/services.html",
+		"/Users/akozhin/work/projects/plantcargo/tracking.html",
+		"/Users/akozhin/work/projects/plantcargo/index.html",
+		"/Users/akozhin/work/projects/plantcargo/contact.html",
+		"/Users/akozhin/work/projects/plantcargo/fruits.html",
+		"/Users/akozhin/work/projects/plantcargo/plants.html",
+		"/Users/akozhin/work/projects/plantcargo/article.html",
+		"/Users/akozhin/work/projects/plantcargo/logistic_service.html",
+		"/Users/akozhin/work/projects/plantcargo/form.php",
+		"/Users/akozhin/work/projects/plantcargo/images/nurceries/1.jpg",
+		"/Users/akozhin/work/projects/plantcargo/tracking_result.html",
+		"/Users/akozhin/work/projects/plantcargo/serv.html",
+		"/Users/akozhin/work/projects/plantcargo/images/demo/4.jpg",
+		"/Users/akozhin/work/projects/plantcargo/images/demo/32.jpg",
+		"/Users/akozhin/work/projects/plantcargo/images/demo/23.jpg",
+		"/Users/akozhin/work/projects/plantcargo/images/demo/8.jpg",
+		"/Users/akozhin/work/projects/plantcargo/images/demo/31.jpg",
+		"/Users/akozhin/work/projects/plantcargo/images/demo/42.jpg",
+		"/Users/akozhin/work/projects/plantcargo/images/favicon.png",
+		"/Users/akozhin/work/projects/plantcargo/index_static.html",
+		"/Users/akozhin/work/projects/plantcargo/css/style.css",
+		"/Users/akozhin/work/projects/plantcargo/track.html",
+		"/Users/akozhin/work/projects/plantcargo/css/style-alt0.css",
+		"/Users/akozhin/work/projects/plantcargo/robots.txt",
+		"/Users/akozhin/work/projects/plantcargo.com/index.html",
+		"/Users/akozhin/work/projects/plantcargo.com/robots.txt",
+		"/Users/akozhin/work/projects/plantcargo.com/css/creative.css",
+		"/Users/akozhin/work/projects/plantcargo.com/html/index.html",
+		"/Users/akozhin/work/projects/plantcargo.com/html/about.html",
+		"/Users/akozhin/work/projects/plantcargo.com/html/css/style.css",
+		"/Users/akozhin/work/projects/plantcargo.com/html/css/style-alt0.css",
+		"/Users/akozhin/work/projects/plantcargo.com/html/css/style-alt1.css",
+		"/Users/akozhin/Downloads/dataXmlP.xml",
+		"/Users/akozhin/Downloads/dataXmlDP.xml",
+		"/Users/akozhin/Downloads/Attachments_rav_kd@mail.ru_2014-12-06_18-32-21/dataXmlP.xml",
+		"/Users/akozhin/Downloads/Attachments_rav_kd@mail.ru_2014-12-06_18-32-21/dataXmlDP.xml",
+		"/Users/akozhin/plantner.log",
+		"/Users/akozhin/puma_error.log",
+		"/Users/akozhin/work/projects/dozagruz.ru/robots.txt",
+		"/Users/akozhin/work/projects/dozagruz.ru/index.html",
+		"/Users/akozhin/work/projects/1/plantner/.git/MERGE_MSG",
+		"/Users/akozhin/Documents/Предложения по алфавиту ру",
+		"/Users/akozhin/Documents/1.html",
+		"/Users/akozhin/Downloads/123.csv",
+		"/Users/akozhin/Downloads/_top_bar.html.slim",
+		"/Users/akozhin/Downloads/contracts.csv",
+		"/Users/akozhin/Downloads/stages.csv",
+		"/Users/akozhin/Downloads/contracts.txt",
+		"/Users/akozhin/work/pst/aisparser/src/test/resources/dataXmlP.xml",
+		"/Users/akozhin/work/pst/aisparser/src/test/resources/dataXmlDP.xml",
+		"/Users/akozhin/Downloads/index.html.slim",
+		"/Users/akozhin/work/projects/1/plantner/config/database.yml",
+		"/Users/akozhin/work/projects/plantner1/plantner/config/database.yml",
+		"/Users/akozhin/Downloads/dataXml_5 2.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/20140901 Договора и этапы/dataXml_5_firma.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/20140901 Договора и этапы/dataXml_5.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/20140901 Договора и этапы/dataXml_5_dog_619.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/20140901 Договора и этапы/dataXml_3.xml",
+		"/Users/akozhin/Documents/2014-10-13-plantner_production.sql",
+		"/Users/akozhin/Downloads/dataXml_2.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/_inbox/Шаблон письма для рассылки rusplants.html",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/_inbox/rusplants_email_1.html",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/20140901 Договора и этапы/dataXml_1.xml",
+		"/Users/akozhin/work/passat/proj/error.log",
+		"/Users/akozhin/dataXml_1.xml",
+		"/Users/akozhin/work/passat/proj/load.log",
+		"/Users/akozhin/dataXml_1_1.xml",
+		"/Users/akozhin/work/passat/proj/src/java/pst/arm/client/modules/aiscontracts/domain/AisContract.java",
+		"/Users/akozhin/work/home/apps/dropbox/work/projects/plantner/untitled.html",
+		"/Users/akozhin/work/projects/plantship-local/css/colorblocks-style.css",
+		"/Users/akozhin/work/projects/plantship/index.html",
+		"/Users/akozhin/work/projects/plantship-local/index.html",
+		"/Users/akozhin/work/projects/plantship/css/colorblocks-style.css",
+		"/Users/akozhin/work/projects/plantship/css/basic-style.css",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/nexamples/4.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/nexamples/1.xml",
+		"/Users/akozhin/work/home/apps/dropbox/work/passat/export1111.xml",
+		"/Users/akozhin/work/passat/proj/nbproject/application-default.properties"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "otus-devops.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ser",
+				"services.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"",
+				"http://www.atlfruits.cba.pl/"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"g",
+				"Gemfile"
+			],
+			[
+				"feat",
+				"features/cart.feature"
+			],
+			[
+				"ste",
+				"features/step_definitions/cart_steps.rb"
+			],
+			[
+				"env.rb",
+				"features/support/env.rb"
+			],
+			[
+				"itemin",
+				"app/views/items/index.html.slim"
+			],
+			[
+				"env",
+				"features/support/env.rb"
+			],
+			[
+				"sp",
+				"spec/spec_helper.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"oc",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"oma",
+				"app/mailers/order_mailer.rb"
+			],
+			[
+				"orderc",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"ordm",
+				"app/views/orders/create.html.slim"
+			],
+			[
+				"mail",
+				"app/mailers/order_mailer.rb"
+			],
+			[
+				"app",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"osh",
+				"app/views/orders/show.html.slim"
+			],
+			[
+				"sho",
+				"app/views/categories/show.slim"
+			],
+			[
+				"ordersh",
+				"app/views/orders/show.html.slim"
+			],
+			[
+				"ro",
+				"app/controllers/robokassa_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"ite",
+				"app/admin/item.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"item",
+				"app/admin/item.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"cic",
+				"app/controllers/cart_items_controller.rb"
+			],
+			[
+				"cartitin",
+				"app/views/cart_items/index.html.slim"
+			],
+			[
+				"cii",
+				"app/views/cart_items/index.html.slim"
+			],
+			[
+				"cicon",
+				"app/controllers/cart_items_controller.rb"
+			],
+			[
+				"iteminde",
+				"app/views/items/index.html.slim"
+			],
+			[
+				"itemsho",
+				"app/views/items/show.html.slim"
+			],
+			[
+				"oind",
+				"app/views/orders/index.html.slim"
+			],
+			[
+				"cartiin",
+				"app/views/cart_items/index.html.slim"
+			],
+			[
+				"odesh",
+				"app/views/orders/show.html.slim"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"cih",
+				"app/helpers/cart_items_helper.rb"
+			],
+			[
+				"orde",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"boo",
+				"app/views/layouts/bootstrap.html.erb"
+			],
+			[
+				"or",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"oite",
+				"app/models/order_item.rb"
+			],
+			[
+				"cre",
+				"db/migrate/20140406083101_create_order_items.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"order",
+				"app/models/order.rb"
+			],
+			[
+				"cico",
+				"app/controllers/cart_items_controller.rb"
+			],
+			[
+				"cartitsh",
+				"app/views/cart_items/show.json.jbuilder"
+			],
+			[
+				"cartit",
+				"app/models/cart_item.rb"
+			],
+			[
+				"it",
+				"app/models/item.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"b",
+				"app/views/layouts/bootstrap.html.erb"
+			],
+			[
+				"cartiti",
+				"app/views/cart_items/index.html.slim"
+			],
+			[
+				"us",
+				"app/models/user.rb"
+			],
+			[
+				"cat_for",
+				"app/views/categories/_form.slim"
+			],
+			[
+				"cat_fo",
+				"app/views/categories/_form.slim"
+			],
+			[
+				"itemsh",
+				"app/views/items/show.html.slim"
+			],
+			[
+				"comm",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"caicon",
+				"app/controllers/cart_items_controller.rb"
+			],
+			[
+				"catite",
+				"app/models/cart_item.rb"
+			],
+			[
+				"cci",
+				"db/migrate/20140406070528_create_cart_items.rb"
+			],
+			[
+				"ci",
+				"app/models/cart_item.rb"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"boot",
+				"app/views/layouts/bootstrap.html.erb"
+			],
+			[
+				"reginew",
+				"app/views/devise/registrations/new.html.erb"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"ish",
+				"app/views/items/show.html.slim"
+			],
+			[
+				"use",
+				"app/models/user.rb"
+			],
+			[
+				"devicu",
+				"db/migrate/20140406062659_devise_create_users.rb"
+			],
+			[
+				"en",
+				"config/environments/development.rb"
+			],
+			[
+				"item_fo",
+				"app/views/items/_form.html.slim"
+			],
+			[
+				"phu",
+				"app/uploaders/photo_uploader.rb"
+			],
+			[
+				"photo",
+				"app/uploaders/photo_uploader.rb"
+			],
+			[
+				"com",
+				"app/models/comment.rb"
+			],
+			[
+				"comc",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"co_",
+				"app/views/comments/_form.html.slim"
+			],
+			[
+				"icon",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"catsho",
+				"app/views/categories/show.slim"
+			],
+			[
+				"cat",
+				"app/models/category.rb"
+			],
+			[
+				"ico",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"iin",
+				"app/views/items/index.html.slim"
+			],
+			[
+				"ii",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"ic",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"sca",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"migra",
+				"db/migrate/20140405125551_create_items.rb"
+			],
+			[
+				"new",
+				"app/views/categories/new.slim"
+			],
+			[
+				"slim",
+				"app/views/categories/show.slim"
+			],
+			[
+				"catin",
+				"app/views/categories/index.html.erb"
+			],
+			[
+				"cate",
+				"app/controllers/categories_controller.rb"
+			],
+			[
+				"cha",
+				"db/migrate/20140405105609_change_description_in_categories.rb"
+			],
+			[
+				"add",
+				"db/migrate/20140405105413_add_description_to_categories.rb"
+			],
+			[
+				"mig",
+				"db/migrate/20140405095847_create_categories.rb"
+			],
+			[
+				"sim",
+				"config/initializers/simple_form.rb"
+			],
+			[
+				"su",
+				"app/controllers/support_controller.rb"
+			],
+			[
+				"supp",
+				"app/controllers/support_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
